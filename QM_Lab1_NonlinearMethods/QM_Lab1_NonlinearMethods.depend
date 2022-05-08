@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652046956 source:g:\Уник\ЧМ\qm_lab1_nonlinearmethods\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
